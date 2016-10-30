@@ -1,6 +1,6 @@
 # module4-solution
 
-he app is hosted at http://qqttss.github.io/module4-solution
+The app is hosted at http://qqttss.github.io/module4-solution
 
 The application has 3 views (i.e., 3 view states): home (home), categories list (categories), items list (items).
 
